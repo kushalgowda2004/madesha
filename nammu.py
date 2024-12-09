@@ -1,3 +1,4 @@
 print("hello world")
 print("keralaa")
-print("meow")
+print("karnataka")
+print("hushar")
